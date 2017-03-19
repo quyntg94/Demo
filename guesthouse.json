@@ -1,0 +1,44 @@
+﻿{
+    "guesthouse": [
+        {
+            "id" : "01",
+            "name" : "Nhà Nghỉ Quang Anh",
+            "address" : "18 Phan Văn Trị, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+            "phone" : "(84-4) 37 326 661",
+            "latitude" : "21.007201",
+            "longitude" : "105.825949"
+        },
+        {
+            "id" : "02",
+            "name" : "Nhà Nghỉ Đông Dương",
+            "address" : "251 Chùa Bộc, Trung Liệt, Đống Đa, Hà Nội, Việt Nam",
+            "phone" : "Đang cập nhật",
+            "latitude" : "21.008939",
+            "longitude" : "105.825351"
+        },
+        {
+            "id" : "03",
+            "name" : "Nhà Nghỉ ",
+            "address" : "74 ngõ 95 - 8, Chùa Bộc, Quận Đống Đa, Hà Nội",
+            "phone" : "Đang cập nhật",
+            "latitude" : "21.008493",
+            "longitude" : "105.825959"
+        },
+        {
+            "id" : "04",
+            "name" : "Khách sạn Hoa Hồng",
+            "address" : "số 25 ngõ 43, Chùa Bộc, Quận Đống Đa, Hà Nội",
+            "phone" : "(84-4) 38 529 628 - (84-4) 35 723 193",
+            "latitude" : "21.005676",
+            "longitude" : "105.829117"
+        },
+        {
+            "id" : "05",
+            "name" : "Nhà khách Bình Minh",
+            "address" : "8 ngõ 95, Chùa Bộc, Quận Đống Đa, Hà Nội",
+            "phone" : "(84-4) 35 638 955",
+            "latitude" : "21.006909",
+            "longitude" : "105.828493"
+        }
+    ]
+}
