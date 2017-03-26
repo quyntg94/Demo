@@ -8,7 +8,14 @@
             "latitude" : "21.007201",
             "longitude" : "105.825949",
             "state" : "full",
-            "service" : "1"
+            "service" : [
+                {
+                    "type" : "ac"
+                },
+                {
+                    "type" : "cash"
+                }
+            ]
         },
         {
             "id" : "02",
@@ -18,7 +25,17 @@
             "latitude" : "21.008939",
             "longitude" : "105.825351",
             "state" : "normal",
-            "service" : "2"
+            "service" : [
+                {
+                    "type" : "ac"
+                },
+                {
+                    "type" : "cash"
+                },
+                {
+                    "type" : "condom"
+                }
+            ]
         },
         {
             "id" : "03",
@@ -28,7 +45,20 @@
             "latitude" : "21.008493",
             "longitude" : "105.825959",
             "state" : "clear",
-            "service" : "3"
+            "service" : [
+                {
+                    "type" : "ac"
+                },
+                {
+                    "type" : "cash"
+                },
+                {
+                    "type" : "condom"
+                },
+                {
+                    "type" : "food"
+                }
+            ]
         },
         {
             "id" : "04",
@@ -38,7 +68,23 @@
             "latitude" : "21.005676",
             "longitude" : "105.829117",
             "state" : "normal",
-            "service" : "4"
+            "service" : [
+                {
+                    "type" : "ac"
+                },
+                {
+                    "type" : "cash"
+                },
+                {
+                    "type" : "condom"
+                },
+                {
+                    "type" : "food"
+                },
+                {
+                    "type" : "shower"
+                }
+            ]
         },
         {
             "id" : "05",
@@ -48,7 +94,26 @@
             "latitude" : "21.006909",
             "longitude" : "105.828493",
             "state" : "full",
-            "service" : "5"
+            "service" : [
+                {
+                    "type" : "ac"
+                },
+                {
+                    "type" : "cash"
+                },
+                {
+                    "type" : "condom"
+                },
+                {
+                    "type" : "food"
+                },
+                {
+                    "type" : "shower"
+                },
+                {
+                    "type" : "wifi"
+                }
+            ]
         }
     ]
 }
