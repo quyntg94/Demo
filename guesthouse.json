@@ -11,10 +11,10 @@
             "totalService" : "2",
             "service" : [
                 {
-                    "type" : "ac"
+                    "typeService" : "ac"
                 },
                 {
-                    "type" : "cash"
+                    "typeService" : "cash"
                 }
             ],
             "roomNumber" : "3",
@@ -68,13 +68,13 @@
             "totalService" : "3",
             "service" : [
                 {
-                    "type" : "ac"
+                    "typeService" : "ac"
                 },
                 {
-                    "type" : "cash"
+                    "typeService" : "cash"
                 },
                 {
-                    "type" : "condom"
+                    "typeService" : "condom"
                 }
             ],
             "roomNumber" : "3",
@@ -137,16 +137,16 @@
             "totalService" : "4",
             "service" : [
                 {
-                    "type" : "ac"
+                    "typeService" : "ac"
                 },
                 {
-                    "type" : "cash"
+                    "typeService" : "cash"
                 },
                 {
-                    "type" : "condom"
+                    "typeService" : "condom"
                 },
                 {
-                    "type" : "food"
+                    "typeService" : "food"
                 }
             ],
             "roomNumber" : "3",
@@ -218,19 +218,19 @@
             "totalService" : "5",
             "service" : [
                 {
-                    "type" : "ac"
+                    "typeService" : "ac"
                 },
                 {
-                    "type" : "cash"
+                    "typeService" : "cash"
                 },
                 {
-                    "type" : "condom"
+                    "typeService" : "condom"
                 },
                 {
-                    "type" : "food"
+                    "typeService" : "food"
                 },
                 {
-                    "type" : "shower"
+                    "typeService" : "shower"
                 }
             ],
             "roomNumber" : "3",
@@ -311,22 +311,22 @@
             "totalService" : "6",
             "service" : [
                 {
-                    "type" : "ac"
+                    "typeService" : "ac"
                 },
                 {
-                    "type" : "cash"
+                    "typeService" : "cash"
                 },
                 {
-                    "type" : "condom"
+                    "typeService" : "condom"
                 },
                 {
-                    "type" : "food"
+                    "typeService" : "food"
                 },
                 {
-                    "type" : "shower"
+                    "typeService" : "shower"
                 },
                 {
-                    "type" : "wifi"
+                    "typeService" : "wifi"
                 }
             ],
             "roomNumber" : "3",
