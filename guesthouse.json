@@ -21,7 +21,14 @@
             "room" : [
                 {
                     "roomName" : "1",
-                    "image" : "http://i.imgur.com/dvXXdTe.jpg",
+                    "image" : [
+                        {
+                        "link" : "http://i.imgur.com/dvXXdTe.jpg"
+                        },
+                        {
+                        "link" : "http://i.imgur.com/wnMQlF8.jpg"
+                        }
+                    ],
                     "price" : "100.000 - 200.000d",
                     "numberService" : "1",
                     "roomService": [
@@ -32,7 +39,14 @@
                 },
                 {
                     "roomName" : "2",
-                    "image" : "http://i.imgur.com/wnMQlF8.jpg",
+                    "image" : [
+                        {
+                        "link" : "http://i.imgur.com/wnMQlF8.jpg"
+                        },
+                        {
+                        "link" : "http://i.imgur.com/dvXXdTe.jpg"
+                        }
+                    ],
                     "price" : "200.000 - 300.000d",
                     "numberService" : "1",
                     "roomService": [
@@ -43,7 +57,14 @@
                 },
                 {
                     "roomName" : "3",
-                    "image" : "http://i.imgur.com/yiXge8b.jpg",
+                    "image" : [
+                        {
+                        "link" : "http://i.imgur.com/yiXge8b.jpg"
+                        },
+                        {
+                        "link" : "http://i.imgur.com/yiXge8b.jpg"
+                        }
+                    ],
                     "price" : "300.000 - 400.000d",
                     "numberService" : "2",
                     "roomService": [
